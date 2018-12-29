@@ -271,6 +271,13 @@ namespace XOProject.Api.Tests
                     Symbol = "REL",
                     Rate = 695.0M,
                     TimeStamp = new DateTime(2018, 12, 6, 9, 0, 0)
+                },
+				new HourlyShareRate
+                {
+                    Id = 22,
+                    Symbol = "REL",
+                    Rate = 895.0M,
+                    TimeStamp = new DateTime(2018, 12, 6, 19, 0, 0)
                 }
             };
             //_analyticsServiceMock.Object._shareControlRepository = _shareRepositoryMock.Object;
