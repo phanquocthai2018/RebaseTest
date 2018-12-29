@@ -244,7 +244,7 @@ namespace XOProject.Api.Tests
                     Rate = 350.0M,
                     TimeStamp = new DateTime(2018, 12, 6, 8, 0, 0)
                 },
-				          new HourlyShareRate
+				new HourlyShareRate
                 {
                     Id = 18,
                     Symbol = "IBM",
@@ -258,21 +258,21 @@ namespace XOProject.Api.Tests
                     Rate = 350.0M,
                     TimeStamp = new DateTime(2018, 12, 6, 8, 0, 0)
                 },
-				          new HourlyShareRate
+				new HourlyShareRate
                 {
                     Id = 20,
                     Symbol = "IBM",
                     Rate = 655.0M,
                     TimeStamp = new DateTime(2018, 12, 6, 9, 0, 0)
                 },
-				          new HourlyShareRate
+				new HourlyShareRate
                 {
                     Id = 21,
                     Symbol = "REL",
                     Rate = 695.0M,
                     TimeStamp = new DateTime(2018, 12, 6, 9, 0, 0)
                 },
-				          new HourlyShareRate
+				new HourlyShareRate
                 {
                     Id = 22,
                     Symbol = "REL",
